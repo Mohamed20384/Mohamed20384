@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Whdan</h1>
-<h3 align="center">AI & Machine learning Engineer</h3>
+<h3 align="center">AI & Machine Learning Engineer</h3>
 
 - 🔭 I’m currently working on Under ControlEG **Instructor**
 
