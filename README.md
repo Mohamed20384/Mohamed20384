@@ -11,13 +11,13 @@
 <br>
 
   <p align="center">
-    <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
+    <a href="https://www.google.com.eg/search?q=mohamed20384"> <!-- Google Me -->
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
   </p>
 
   <p align="center">
-    <a href="https://www.google.com.eg/search?q=A-Hemeda"> <!-- Google Me -->
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
+    <a href="https://www.google.com.eg/search?q=mohamed20384"> <!-- Google Me -->
+      <img src="https://komarev.com/ghpvc/?username=mohamed20384&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
   </p>
 
   <p align = "center">
@@ -111,18 +111,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="60" alt="opengl logo"  />
 </div>
 
-#### `🏆 GitHub Trophies`
-  <p align="center">
-  
-  ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
-  </div>
-<br>
+#### 🏆 GitHub Trophies
+<div align="center">
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
-    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/>
-  </p>
+  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=mohamed20384&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  </p>
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed20384&layout=compact&langs_count=6&theme=highcontrast" height="125" /> &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125" />
+
+  <br><br>
+
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+
+</div>
