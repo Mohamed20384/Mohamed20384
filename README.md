@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm  Mobamed Whdan</h1>
 
-<h2 align="center"> AI Engineer | Full Stack .NET @ITI </h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+.NET+@+ITI" alt="Typing SVG" />
+</p>
+
 <br>
 
   <p align="center">
