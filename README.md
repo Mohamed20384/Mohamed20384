@@ -1,8 +1,59 @@
-<h1 align="center">Hi 👋, I'm Mohamed Whdan</h1>
+  <p align="center">
+    <a href="https://gh-most-followed.pages.dev/egypt">
+      <img src="https://img.shields.io/badge/18ᵗʰ Most Followed User 🇪🇬-202525?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://committers.top/egypt">
+      <img src="https://img.shields.io/badge/15ᵗʰ Most Active User 🇪🇬-202525?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
+  </p>
 
-###
+<h1 align="center">Hi, I'm  Mobamed Whdan</h1>
 
-<div align="center">
+<h2 align="center"> AI Engineer | Full Stack .NET @ITI </h2>
+<br>
+
+  <p align="center">
+    <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
+  </p>
+
+  <p align="center">
+    <a href="https://www.google.com.eg/search?q=A-Hemeda"> <!-- Google Me -->
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
+  </p>
+
+  <p align = "center">
+    <a href="https://flowcv.com/resume/at8tsgkor6n5">
+      <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://flowcv.com/resume/at8tsgkor6n5">
+      <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
+  </p>
+
+  #### `📤 Connect & Competitive Programming`
+  <div align="center">
+  <a href="https://www.linkedin.com/in/mohamed-whdan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/whdan_ai" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="whdan236@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <a href="https://www.instagram.com/whdan48" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@Mohamed_Whdan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="@Whdan48" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
+
+#### `🛠️ Top Technical Skills`
+
+  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
@@ -60,28 +111,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="60" alt="opengl logo"  />
 </div>
 
-###
+#### `🏆 GitHub Trophies`
+  <p align="center">
+  
+  ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
+  </div>
+<br>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-whdan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/whdan_ai" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="whdan236@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  <a href="https://www.instagram.com/whdan48" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.youtube.com/@Mohamed_Whdan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="@Whdan48" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/>
+  </p>
 
-###
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </p>
