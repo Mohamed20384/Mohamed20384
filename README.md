@@ -17,9 +17,9 @@
   </p>
 
   <p align = "center">
-    <a href="https://drive.google.com/drive/folders/1cMFhLCLeu1WX0o57vI_0qSetC0188pj1?usp=sharing">
-      <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
     <a href="https://flowcv.com/resume/at8tsgkor6n5">
+      <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://whdan-ai.framer.website/">
       <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
   </p>
 
